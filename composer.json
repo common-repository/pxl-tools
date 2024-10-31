@@ -1,0 +1,17 @@
+{
+  "name": "communicatti/pxl",
+  "description": "A Toolbelt for Wordpress development",
+  "authors": [
+    {
+      "name": "Communicatti",
+      "email": "dev@communicatti.com"
+    },
+    {
+      "name": "Luiz Alberto",
+      "email": "luizalberto@communicatti.com"
+    }
+  ],
+  "require": {
+    "duncan3dc/blade": "^4.0"
+  }
+}
